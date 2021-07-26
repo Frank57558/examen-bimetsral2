@@ -1,0 +1,9 @@
+.titulo{
+    color:tomato;
+    font-size:6.5em; 
+    transition:all 0.6s;
+}
+.titulo:hover{
+    color:aqua;
+    
+}
